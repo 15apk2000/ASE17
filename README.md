@@ -11,10 +11,10 @@ Technologies:
 
 Team Members :      
  --- >>> Pavan Kumar Anand : https://github.com/15apk2000       
- --- >>> Aditya Ramesh : https://github.com/aditya-r17 
- --- >>> Jahnavi Pasumarthy : https://github.com/jahnavi2704    
- --- >>> Sharath : https://github.com/schandra4321    
- --- >>> Sriraj :  https://github.com/venkatasriraj    
+ --- >>> Aditya Ramesh : https://github.com/aditya-r17         
+ --- >>> Jahnavi Pasumarthy : https://github.com/jahnavi2704               
+ --- >>> Sharath : https://github.com/schandra4321          
+ --- >>> Sriraj :  https://github.com/venkatasriraj           
  
          
       
