@@ -1,7 +1,7 @@
 # Group17-Section B-ASE Project
 
-Project Title: Bid 'N' Win Auction App
-Project Description: We are aiming to make an online auction application which will be a common portal for auctioneers and bidders.
+Project Title: Bid 'N' Win Auction App           
+Project Description: An online auction portal application which acts as one stop portal for auctioneers and bidders.
 
 Technologies: 
   1) Django and Python
