@@ -10,12 +10,11 @@ Technologies:
   3) SQLite for DB. (Inbuilt with Django)
 
 Team Members :      
-  --- >>> Pavan Kumar Anand : https://github.com/apku2000 (Branches working on: Templates and Master)   
- --- >>> Aditya Ramesh : https://github.com/aditya-r17  (Branches working on: Create_Join and Master)  
+  --- >>> Pavan Kumar Anand : https://github.com/15apk2000 
+ --- >>> Aditya Ramesh : https://github.com/aditya-r17 
  --- >>> Jahnavi Pasumarthy : https://github.com/jahnavi2704    
  --- >>> Sharath : https://github.com/schandra4321    
  --- >>> Sriraj :  https://github.com/venkatasriraj    
- (Other Teammates' contributions were manually integrated by us and put into the master branch.)
  
          
       
