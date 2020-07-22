@@ -10,7 +10,7 @@ Technologies:
   3) SQLite for DB. (Inbuilt with Django)
 
 Team Members :      
-  --- >>> Pavan Kumar Anand : https://github.com/15apk2000 
+ --- >>> Pavan Kumar Anand : https://github.com/15apk2000       
  --- >>> Aditya Ramesh : https://github.com/aditya-r17 
  --- >>> Jahnavi Pasumarthy : https://github.com/jahnavi2704    
  --- >>> Sharath : https://github.com/schandra4321    
